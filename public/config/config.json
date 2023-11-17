@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xDF997c47800B372C32594765acFcBE1798E3D617",
+  "SCAN_LINK": "https://testnet.teloscan.io/address/0x2c2F2Ded54F613615A7b6302e8d1704E2816E87a",
+  "NETWORK": {
+    "NAME": "Telos Testnet",
+    "SYMBOL": "TLOS",
+    "ID": 41
+  },
+  "NFT_NAME": "NFTMemoi",
+  "SYMBOL": "NFTM",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Telos Testnets",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": false
+}
